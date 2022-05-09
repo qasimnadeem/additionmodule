@@ -1,0 +1,9 @@
+{
+  "name": "additionmodule",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+  },
+  "dependencies": {
+  }
+}
